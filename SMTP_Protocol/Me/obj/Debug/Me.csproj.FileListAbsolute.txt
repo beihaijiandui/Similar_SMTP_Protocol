@@ -1,0 +1,4 @@
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol\Me\bin\Debug\Me.dll
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol\Me\bin\Debug\Me.pdb
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol\Me\obj\Debug\Me.dll
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol\Me\obj\Debug\Me.pdb

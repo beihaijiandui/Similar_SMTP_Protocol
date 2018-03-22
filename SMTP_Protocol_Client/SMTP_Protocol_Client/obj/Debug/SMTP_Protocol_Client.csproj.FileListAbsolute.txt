@@ -1,0 +1,7 @@
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\bin\Debug\SMTP_Protocol_Client.exe.config
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\bin\Debug\SMTP_Protocol_Client.exe
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\bin\Debug\SMTP_Protocol_Client.pdb
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\bin\Debug\Me.dll
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\obj\Debug\SMTP_Protocol_Client.csprojResolveAssemblyReference.cache
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\obj\Debug\SMTP_Protocol_Client.exe
+c:\users\jamesbond\documents\visual studio 2015\Projects\SMTP_Protocol_Client\SMTP_Protocol_Client\obj\Debug\SMTP_Protocol_Client.pdb
